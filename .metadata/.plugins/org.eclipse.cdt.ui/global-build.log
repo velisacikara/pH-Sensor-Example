@@ -1,0 +1,7 @@
+12:56:20 **** Incremental Build of configuration Debug for project ph_sensor ****
+make -j8 all 
+arm-none-eabi-size   ph_sensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9996	     24	   1656	  11676	   2d9c	ph_sensor.elf
+Finished building: default.size.stdout
+ 
